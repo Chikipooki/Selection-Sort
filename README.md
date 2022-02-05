@@ -5,5 +5,5 @@
 [RUS] Это пример кода для сортировки методом прямого выбора.
 
 <!--Gif-->
-![Alt Text](https://imgur.com/5nNoi1q)
+![Alt Text](https://imgur.com/5nNoi1q.gif)
 
